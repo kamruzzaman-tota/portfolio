@@ -1,0 +1,37 @@
+
+html{
+    scroll-behavior: smooth;
+}
+.nav-item{
+   padding-right: 35px;
+   
+}
+#home-section{
+    background-color: rgba(85, 146, 178, 0.84);
+}
+#home-section img{
+    display: inline-block;
+    height: 400px;
+    width: 350px;
+}
+.area h3 span{
+    color: #d6155f;
+}
+.nav-link{
+    font-size: 17px;
+    text-transform: uppercase;
+}
+.fa{
+    font-size: 30px;
+    padding-left: 20px;
+}
+.about-body img{
+    height: 400px;
+}
+#service-body .card:hover{
+    background-color: #ff00b1;
+    color: white;
+}
+#section-footer img{
+    height: 400px;
+}
